@@ -8,7 +8,7 @@ const projects = [
     year: "2026",
     image: [
       "https://i.ibb.co/VcLRfPy2/muestra1.png",
-      "https://i.ibb.co/wh8mNJSR/muestra5.png",
+      "https://i.ibb.co/BKdqpQp0/muestra6.png",
       "https://i.ibb.co/YTpddJ7S/muestra7.png",
     ],
     tone: "bg-[#7868ff]",
@@ -32,7 +32,6 @@ const projects = [
     image: [
       "https://i.ibb.co/8DL8Q8RY/muestra2.png",
       "https://i.ibb.co/Ng6rXDBP/muestra3.png",
-      "https://i.ibb.co/BKdqpQp0/muestra6.png",
     ],
     tone: "bg-[#7868ff]",
   },
