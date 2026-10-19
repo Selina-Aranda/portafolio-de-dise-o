@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning graphic design portfolios with customizable sections for showcasing work, personal information, and contact details.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
