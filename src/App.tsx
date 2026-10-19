@@ -9,7 +9,7 @@ const projects = [
     image: [
       "/images/muestra1.png",
       "/images/muestra6.png",
-      "/images/muestra7.png"
+      "/images/muestra7.png",
     ],
     tone: "bg-[#7868ff]",
   },
@@ -20,7 +20,7 @@ const projects = [
     year: "2026",
     image: [
       "/images/muestra5.png",
-      "/images/muestra4.png"
+      "/images/muestra4.png",
     ],
     tone: "bg-[#7868ff]",
   },
@@ -31,7 +31,7 @@ const projects = [
     year: "2026",
     image: [
       "/images/muestra2.png",
-      "/images/muestra3.png"
+      "/images/muestra3.png",
     ],
     tone: "bg-[#7868ff]",
   },
